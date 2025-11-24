@@ -24,14 +24,30 @@ var data = [
         "url": "https://www.churchofjesuschrist.org/?lang=eng",
     },
     {
-        "name": "b1",
-        "url": "https://cards.barclaycardus.com/",
-        "due": 22
-    },
-    {
-        "name": "b1",
-        "url": "https://cards.barclaycardus.com/",
+        "name": "Chase 98",
+        "url": "https://www.chase.com/personal/credit-cards/amazon",
         "due": 23
     },
+    {
+        "name": "Chase 34",
+        "url": "https://www.chase.com/personal/credit-cards/amazon",
+        "due": 9
+    },
+    {
+        "name": "Rocky Mountain Power",
+        "url": "https://csapps.rockymountainpower.net/idm/guest-pay-login/",
+        "due": 24
+    },
+    {
+        "name": "North Salt Lake",
+        "url": "https://www.xpressbillpay.com/#/",
+        "due": 29
+    },
+    {
+        "name": "Embridge Gas",
+        "url": "https://www.questargas.com/WSS/servlet/CMMainControllerServlet?action=CMSignInAction",
+        "due": 29
+    }
+
 
 ];
