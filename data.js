@@ -51,6 +51,11 @@ var data = [
     {
         "name": "MyDSD",
         "url": "https://mydsd.davis.k12.ut.us/Account/Login?ReturnUrl=%2f",
+    },
+    {
+        "name": "newrez",
+        "url": "https://signin.newrez.com/signin/myaccount",
+        "due": 1
     }
 
 
