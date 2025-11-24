@@ -47,6 +47,10 @@ var data = [
         "name": "Embridge Gas",
         "url": "https://www.questargas.com/WSS/servlet/CMMainControllerServlet?action=CMSignInAction",
         "due": 29
+    },
+    {
+        "name": "MyDSD",
+        "url": "https://mydsd.davis.k12.ut.us/Account/Login?ReturnUrl=%2f",
     }
 
 

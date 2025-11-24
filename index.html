@@ -15,7 +15,7 @@
     }
 
     function sortByDue() {
-        data.sort((a, b) => a.due - b.due);
+        data.sort((a, b) => (a.due ? a.due : 33) - (b.due ? b.due : 33));
         addLinks();
     }
 </script>
